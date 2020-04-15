@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{background-color: lightpink
+}
+#header
+{
+	background-color: blue;
+	font-size:100px;
+    float:inherit
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 10px;
+	text-align: center;
+    font-style: italic;
+	color: lightgreen
+			
+}
+
+#banner 
+{
+	background-color:orange;
+	text-align: center;
+	font-size: 22px;
+	font-style: italic;
+	color: alicebl
+}
+#body{
+	text-align: center;
+	font-size: 20px;
+	color: blue;
+	float: inherit;
+	width: auto;
+	padding-bottom: inherit;
+	font-style: italic;
+	background-color: yellow;
+	
+
+}
+
+#footer
+{
+	background-color: darkmagenta;
+	text-align: center;
+	font-size: 20px;
+	color: aqua;
+	font-style: oblique
+}
+
